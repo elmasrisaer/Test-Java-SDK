@@ -6,7 +6,7 @@
 
     <groupId>net.celitech</groupId>
     <artifactId>Celitech</artifactId>
-    <version>1.1.69</version>
+    <version>1.1.70</version>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>

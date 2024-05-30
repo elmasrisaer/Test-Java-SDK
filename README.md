@@ -1,9 +1,9 @@
-# Celitech Java SDK 1.1.69
+# Celitech Java SDK 1.1.70
 
 A Java SDK for Celitech.
 
 - API version: 1.1.0
-- SDK version: 1.1.69
+- SDK version: 1.1.70
 
 Welcome to the CELITECH API documentation! Useful links: [Homepage](https://www.celitech.com) | [Support email](mailto:support@celitech.com) | [Blog](https://www.celitech.com/blog/)
 
@@ -20,14 +20,14 @@ If you use Maven, place the following within the _dependency_ tag in your pom.xm
 <dependency>
   <groupId>net.celitech</groupId>
   <artifactId>Celitech</artifactId>
-  <version>1.1.69</version>
+  <version>1.1.70</version>
 </dependency>
 ```
 
 If you use Gradle, paste the next line inside the _dependencies_ block of your build.gradle file:
 
 ```Gradle
-implementation group: net.celitech, name: Celitech, version: 1.1.69
+implementation group: net.celitech, name: Celitech, version: 1.1.70
 ```
 
 ## Environments
